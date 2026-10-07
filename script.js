@@ -3,9 +3,9 @@ const nations = [
   { key: "Liyue", th: "หลีเยว่", subtitle: "นครแห่งสัญญา", element: "Geo", symbol: "◆", archon: "Morax · Zhongli", ideal: "สัญญา", summary: "ท่าเรือการค้าที่รุ่งเรือง ผู้คนขับเคลื่อนชีวิตด้วยความเชื่อมั่นในคำสัญญา", landmarks: "Liyue Harbor · Chenyu Vale" },
   { key: "Inazuma", th: "อินาสึมะ", subtitle: "นครแห่งนิรันดร์", element: "Electro", symbol: "ϟ", archon: "Beelzebul · Raiden Ei", ideal: "นิรันดร์", summary: "หมู่เกาะกลางพายุสายฟ้า ซึ่งอดีตและอนาคตต่างถูกตั้งคำถามผ่านแนวคิดนิรันดร์", landmarks: "Narukami Island · Watatsumi" },
   { key: "Sumeru", th: "สุเมรุ", subtitle: "นครแห่งปัญญา", element: "Dendro", symbol: "❋", archon: "Buer · Nahida", ideal: "ปัญญา", summary: "ดินแดนของผืนป่า ทะเลทราย และสถาบัน Akademiya ที่แสวงหาความรู้", landmarks: "Sumeru City · Avidya Forest" },
-  { key: "Fontaine", th: "ฟงแตน", subtitle: "นครแห่งความยุติธรรม", element: "Hydro", symbol: "◈", archon: "Focalors", ideal: "ความยุติธรรม", summary: "นครแห่งกลไก โรงละคร และศาล ที่ทุกเรื่องราวสามารถกลายเป็นคดีได้", landmarks: "Court of Fontaine · Opera Epiclese" },
-  { key: "Natlan", th: "นาตลัน", subtitle: "นครแห่งสงคราม", element: "Pyro", symbol: "✺", archon: "Mavuika", ideal: "สงคราม", summary: "ดินแดนภูเขาไฟและหกเผ่า ที่ความกล้าหาญ ความทรงจำ และการต่อสู้คือพลังร่วมกัน", landmarks: "Stadium of the Sacred Flame · 6 เผ่า" },
-  { key: "Snezhnaya", th: "สเนซนายา", subtitle: "นครแห่งความรัก", element: "Cryo", symbol: "✥", archon: "The Tsaritsa", ideal: "ความรัก", summary: "ดินแดนหิมะอันไกลโพ้น บ้านของ Fatui และแคว้น Nod-Krai ทางตอนใต้", landmarks: "Snezhnaya · Nod-Krai" }
+  { key: "Fontaine", th: "ฟงแตน", subtitle: "นครแห่งความยุติธรรม", element: "Hydro", symbol: "◈", archon: "Focalors · Furina ", ideal: "ความยุติธรรม", summary: "นครแห่งกลไก โรงละคร และศาล ที่ทุกเรื่องราวสามารถกลายเป็นคดีได้", landmarks: "Court of Fontaine · Opera Epiclese" },
+  { key: "Natlan", th: "นาตลัน", subtitle: "นครแห่งสงคราม", element: "Pyro", symbol: "✺", archon: "Haborym · Mavuika", ideal: "สงคราม", summary: "ดินแดนภูเขาไฟและหกเผ่า ที่ความกล้าหาญ ความทรงจำ และการต่อสู้คือพลังร่วมกัน", landmarks: "Stadium of the Sacred Flame · 6 เผ่า" },
+  { key: "Snezhnaya", th: "สเนซนายา", subtitle: "นครแห่งความรัก", element: "Cryo", symbol: "✥", archon: "Vassaga · Anastasya", ideal: "ความรัก", summary: "ดินแดนหิมะอันไกลโพ้น บ้านของ Fatui และแคว้น Nod-Krai ทางตอนใต้", landmarks: "Snezhnaya · Nod-Krai" }
 ];
 
 const elements = [
